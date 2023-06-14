@@ -3,6 +3,7 @@
 The Tic Tac Toe Chrome Extension is a single-player game that allows users to play the classic game of Tic Tac Toe within Google Chrome. The extension provides an interactive interface where users can make their moves and play against a preprogrammed opponent.
 
 ![Game Screenshot](pic.png)
+![result Screenshot](pic2.png)
 
 ## Features
 
