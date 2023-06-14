@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "XO Game Extension",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "./index.html"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
